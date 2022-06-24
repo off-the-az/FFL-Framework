@@ -17,4 +17,5 @@ This module u can use in every projects, as u want. Now this module is alpha ver
  - Paste framework in lib file
  - Change dependies on pubspec.yaml file using downloaded pubspec.yaml file
  - Make pub add 
+ - Read documentation
  - Have fun!)
