@@ -8,3 +8,13 @@ This module u can use in every projects, as u want. Now this module is alpha ver
  - Add all Requests to Global DB(Rest API)
  - Update Logic side at back-end connection
  - Change Color vocabulary
+
+
+# How to use Framework
+
+ - Create a project where u will use this module
+ - Download this repo on your computer 
+ - Paste framework in lib file
+ - Change dependies on pubspec.yaml file using downloaded pubspec.yaml file
+ - Make pub add 
+ - Have fun!)
