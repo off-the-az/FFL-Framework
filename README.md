@@ -6,5 +6,5 @@ This module u can use in every projects, as u want. Now this module is alpha ver
 # v. 0.1 - EarlyBird
  
  - Add all Requests to Global DB(Rest API)
- - Update Logic side
+ - Update Logic side at back-end connection
  - Change Color vocabulary
