@@ -1,6 +1,6 @@
-# Mobile App Framework
+# FFL(Flutter for lazier) Framework
 
-MA Framework - special module, which can help u to create massive projects, like client-server App or massive Hybrid(in Back-end side) App.
+FFL Framework - special module, which can help u to create massive projects, like client-server App or massive Hybrid(in Back-end side) App.
 This module u can use in every projects, as u want. Now this module is alpha version of massive system, so if u want to make some changes - pls, contact me!)
 
 # v. 0.1 - EarlyBird
@@ -12,7 +12,7 @@ This module u can use in every projects, as u want. Now this module is alpha ver
 
 # How to use Framework
 
- - Create a project where u will use this module
+ - Create a Flutter project where u will use this module
  - Download this repo on your computer 
  - Paste framework in lib file
  - Change dependies on pubspec.yaml file using downloaded pubspec.yaml file
