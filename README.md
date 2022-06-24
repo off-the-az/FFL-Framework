@@ -6,6 +6,5 @@ This module u can use in every projects, as u want. Now this module is alpha ver
 # v. 0.1 - ChangeLog
  
  - Add all Requests to Global DB(Rest API)
- - Modernize Front End Side, using vocabulary
  - Update Logic side
  - Change Color vocabulary
