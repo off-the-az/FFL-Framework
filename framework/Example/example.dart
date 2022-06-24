@@ -9,7 +9,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
-import 'package:mykowel/framework/back-end connection/Global DB/Requests.dart';
+import '/framework/back-end%20connection/Global%20DB/Requests.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
